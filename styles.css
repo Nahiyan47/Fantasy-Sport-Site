@@ -1,0 +1,73 @@
+body{
+	margin:0;
+	font-family:segoe UI;
+	
+}
+#container {
+	width:900px;
+	height:530px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#fieldset {
+	width:200px;
+	height:350px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#container #left{
+	width:300px;
+	float:left;
+	background-color:RED;
+	 padding: 10px;
+	  opacity: 0.2;
+    filter: alpha(opacity=10);
+	height:100%;
+}
+#container #right{
+	width:500px;
+	float:right;
+	 position: absolute;
+    right: 0;
+		background-color:GREEN;
+	 padding: 10px;
+	  opacity: 0.6;
+    filter: alpha(opacity=10);
+	height: 530px;
+}
+#consignup #left{
+	width:500px;
+	float:left;
+	 position: absolute;
+    left: 0;
+		background-color:GREEN;
+		 padding: 10px;
+	  opacity: 0.8;
+    filter: alpha(opacity=10);
+	height: 530px;
+	
+}
+#left{
+	width:500px;
+	float:left;
+	 position: absolute;
+    left: 0;
+		background-color:RED;
+		 padding: 10px;
+	  opacity: 0.6;
+    filter: alpha(opacity=10);
+	height:500px;
+	
+}
+#login{
+	padding:10px;
+	background-color:blue;
+	font-size:20px;
+	
+	
+}
+#login:hover{
+	background-color:blue;
+}
